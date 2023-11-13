@@ -51,7 +51,9 @@ class Solution {
         return -1;
     }
     
-    class Dot {
+}
+
+class Dot {
     int x; 
     int y;
     int cnt;
@@ -62,5 +64,3 @@ class Solution {
         this.cnt = cnt;
     }
 }
-}
-
